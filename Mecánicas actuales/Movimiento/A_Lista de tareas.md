@@ -1,0 +1,3 @@
+- [x] [[Trasladarse]] (izquierda, derecha, adelante, atrás) ✅ 2024-06-03
+- [x] [[Agacharse]] ✅ 2024-06-03
+- [x] [[Saltar]] ✅ 2024-06-03

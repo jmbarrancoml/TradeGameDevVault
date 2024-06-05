@@ -1,0 +1,1 @@
+![[apuntar_objeto.png]]
