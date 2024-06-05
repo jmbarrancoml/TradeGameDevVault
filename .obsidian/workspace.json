@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "27dc1a7267edd61f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4505eda70e10423b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49be6bdea256fc7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Trabajo jugador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfb375e24c712513",
+    "type": "split",
+    "children": [
+      {
+        "id": "c96a67c95dd2c100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e973dab86f713e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbe5a2bb754cee09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a2310ca306220e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14f2a9b82e8ee42a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c6b44ae856b31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a92cf951a21e0833",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/Trabajo jugador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a04fe6acaf85645",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas/Trabajo jugador.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ad50b91e02aabd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fad243e37934f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas/Trabajo jugador.md"
+              }
+            }
+          },
+          {
+            "id": "71745f32609551e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "49be6bdea256fc7d",
+  "lastOpenFiles": [
+    "Kanban/General.md",
+    "Ideas/Trabajo jugador.md",
+    "Ideas",
+    "Tutoriales/Añadir interacciones.md",
+    "Docs/Godot Docs Embedded.md",
+    "Tutoriales/Untitled",
+    "Docs/Godot Docs Canvas.canvas",
+    "Tutoriales/Recoger items.md",
+    "Tutoriales/Apuntar a un objetivo.md",
+    "Misc/Pomodoro.md",
+    "Mecánicas actuales/User Interface/Retícula.md",
+    "Mecánicas actuales/User Interface/A_Lista de tareas.md",
+    "Mecánicas actuales/Movimiento/Trasladarse.md",
+    "Mecánicas actuales/Movimiento/Saltar.md",
+    "Mecánicas actuales/Movimiento/Agacharse.md",
+    "Mecánicas actuales/Movimiento/A_Lista de tareas.md",
+    "Assets/apuntar_objeto.png",
+    "Misc",
+    "Docs/Destacado",
+    "Docs/classes/class_@gdscript.md",
+    "Docs/tutorials/ui/control_node_gallery.md",
+    "Docs/tutorials/scripting/debug/the_profiler.md",
+    "Docs/tutorials/platform/ios/ios_plugin.md",
+    "Docs/tutorials/physics/collision_shapes_3d.md",
+    "Docs/tutorials/export/exporting_for_ios.md",
+    "Docs/tutorials/best_practices/version_control_systems.md",
+    "Docs/tutorials/best_practices/scene_organization.md",
+    "Docs/tutorials/best_practices/scenes_versus_scripts.md",
+    "Docs/tutorials/3d/using_transforms.md",
+    "Docs/tutorials/3d/using_multi_mesh_instance.md",
+    "Docs/getting_started/introduction/first_look_at_the_editor.md",
+    "Docs/contributing/development/configuring_an_ide/rider.md",
+    "Docs/about/img/eol.png",
+    "Docs/img/vector2_angle_to_point.png",
+    "Docs/img/tween_cheatsheet.webp",
+    "Docs/img/vector2_angle_to.png",
+    "Docs/img/vector2_angle.png",
+    "Docs/img/smoothstep_ease_comparison.png",
+    "Docs/img/node2d_get_angle_to.png",
+    "Docs/img/ease_cheatsheet.png",
+    "Docs/img/docs_logo.svg",
+    "Docs/img",
+    "Docs/getting_started/first_3d_game/img/09.adding_animations",
+    "Docs/getting_started/first_3d_game/img/08.score_and_replay",
+    "Docs/getting_started/first_3d_game/img/07.killing_player",
+    "Docs/getting_started/first_3d_game/img/06.jump_and_squash",
+    "Docs/getting_started/first_3d_game/img/05.spawning_mobs"
+  ]
+}
